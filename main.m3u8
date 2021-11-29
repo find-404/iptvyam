@@ -273,3 +273,16 @@ http://iptvid.my.id/usee/egg.m3u8?by=iptv_id
 http://iptvid.my.id/usee/golfplus.m3u8?by=iptv_id
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQ9ar6qlnU6yaHbyODC9IEJKeD9dG5_xDn-A&usqp=CAU" group-title="Sport",Horison sport
 http://iptvid.my.id/usee/horisonsport.m3u8?by=iptv_id
+
+
+--------HBO--------
+#EXTINF:-1 group-title="HBO", HBO
+https://test.mbed.cc/anticurl/hbo.m3u8
+#EXTINF:-1 group-title="HBO", HBO Family
+https://test.mbed.cc/anticurl/hbofam.m3u8
+#EXTINF:-1 group-title="HBO", HBO Hits
+https://test.mbed.cc/anticurl/hbohits.m3u8
+#EXTINF:-1 group-title="HBO", HBO Max
+https://test.mbed.cc/anticurl/hbomax.m3u8
+#EXTINF:-1 group-title="HBO", HBO Signature
+https://test.mbed.cc/anticurl/hbosig.m3u8
